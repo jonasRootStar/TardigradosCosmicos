@@ -15,7 +15,7 @@ body {
 .container-main {
     border: 1px solid transparent;
     height: 100vh;
-    background-image: url("/imagenes/pixelTwo.jpg");
+    background-image: url("/imagenes/pixelThree.png");
     background-size: cover;
 }
 
