@@ -6,7 +6,7 @@
 
 body {
     background-color: #030514;
-    background-image: url("/imagenes/star.png");
+    background-image: url("../imagenes/star.png");
     background-size: auto;
     font-family: 'Chakra Petch', sans-serif;
 }
@@ -15,7 +15,7 @@ body {
 .container-main {
     border: 1px solid transparent;
     height: 100vh;
-    background-image: url("/imagenes/pixelThree.png");
+    background-image: url("../imagenes/pixelThree.png");
     background-size: cover;
 }
 
